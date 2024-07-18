@@ -2,9 +2,9 @@
 
 This is a React application that allows users to search for movies using the Open Library Search API. The search results are displayed as cards, each with a random dog image fetched from another API. The application features loading states, error handling, and responsive design using Tailwind CSS.
 
-![app Preview](https://res.cloudinary.com/dxcob4mbd/image/upload/v1720018065/y6jarnq7ghy2mrnx3n0c.png)
-![app Preview with tasks](https://res.cloudinary.com/dxcob4mbd/image/upload/v1720018065/pu2esyuvkjauhrbctmsf.png)
-
+![app Preview with Movies](https://res.cloudinary.com/dxcob4mbd/image/upload/v1721318308/kxxi5hju34gcpdkwuy3a.png)
+![app Loading view](https://res.cloudinary.com/dxcob4mbd/image/upload/v1721318298/jydo2kdvzqe9l8qo9dix.png)
+![Movie Search App Preview](https://drive.google.com/file/d/1tjbJmfLAIxGh_AHuwS2g7luU1kluDuwy/view?usp=sharing)
 ## Features
 
 - Search for movies using the Open Library Search API
