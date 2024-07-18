@@ -4,7 +4,7 @@ This is a React application that allows users to search for movies using the Ope
 
 ![app Preview with Movies](https://res.cloudinary.com/dxcob4mbd/image/upload/v1721318308/kxxi5hju34gcpdkwuy3a.png)
 ![app Loading view](https://res.cloudinary.com/dxcob4mbd/image/upload/v1721318298/jydo2kdvzqe9l8qo9dix.png)
-![Movie Search App Preview](https://res.cloudinary.com/dxcob4mbd/video/upload/v1721320553/Untitled_video__Made_with_Clipchamp_d6uogo.mp4)
+
 ## Features
 
 - Search for movies using the Open Library Search API
